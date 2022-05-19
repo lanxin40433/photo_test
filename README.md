@@ -1,2 +1,2 @@
 # photo_test
-![preview](/images/preview.png)
+![preview](/images/preview.jpg)
